@@ -1,0 +1,5 @@
+---
+roles:
+  - name: andrewrothstein.anaconda
+  - name: andrewrothstein.conda-env
+    # version: v0.0.1
