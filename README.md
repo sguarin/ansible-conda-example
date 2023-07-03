@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Use this playbook to create an Conda environment
+Use this playbook to create a Conda environment
 
 ## Setup
 
@@ -14,7 +14,7 @@ sudo dnf install ansible
 ansible-galaxy role install -r roles/requirements.yml
 ```
 
-## Usage (VM)
+## Usage
 
 
 Take note of the hostname or IP Address of the server and run the playbook, for ex:
